@@ -10,6 +10,8 @@ For in-person hackathons, this GPT focuses on the logistical and atmospheric ele
 #
 ### In-Person Timewaste
 
+![Hacker](https://github.com/user-attachments/assets/ab139046-0503-4fda-b060-a3e16cbb48dc)
+
 The physical, in-person format of traditional hackathons can sometimes hinder innovation and creativity for several reasons:
 
 Limited access to resources and tools: Hackathons often require participants to bring their own laptops, software licenses, and other necessary equipment. This limitation restricts what people can work on and how they approach problems. Accessing cloud services or specialized hardware may also be challenging in a physical space with limited bandwidth or infrastructure.
