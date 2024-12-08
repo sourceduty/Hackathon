@@ -30,6 +30,10 @@ To address these issues, organizers are increasingly exploring hybrid models or 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Game Hacker](https://github.com/sourceduty/Game_Hacker)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
